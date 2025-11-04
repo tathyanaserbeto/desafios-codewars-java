@@ -1,0 +1,6 @@
+public class BooleanToString {
+  public static String convert(boolean b) {
+    String Verdadeiro = Boolean.toString(b);
+    return Verdadeiro;
+  }
+}
