@@ -1,6 +1,6 @@
 # Desafios Codewars em Java
 
-Repositório com minhas soluções dos katas resolvidos no [Codewars] ([https://www.codewars.com/](https://www.codewars.com/users/tathyanaserbeto/completed_solutions).
+Repositório com minhas soluções dos katas resolvidos no Codewars (https://www.codewars.com/users/tathyanaserbeto/completed_solutions).
 
 # 🧩 Desafios concluídos
 
